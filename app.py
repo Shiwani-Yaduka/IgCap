@@ -9,7 +9,7 @@ st.set_page_config(page_title="Vibe Caption Generator", layout="centered")
 st.title("🎶 Igcap — Insta Caps n songs ")
 
 # 🔐 Set your Gemini API key
-genai.configure(api_key="AIzaSyBJjWtMXyAy2HReDy8x3UJDD2oxPPKcT1c")  # Replace with your actual Gemini key
+genai.configure(api_key="API_KEY")  # Replace with your actual Gemini key
 
 # Load the Gemini Flash Vision model
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
