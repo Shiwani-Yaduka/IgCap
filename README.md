@@ -2,7 +2,6 @@
 🔹 Short Description
 A fun AI-powered Streamlit app that analyzes your image and generates a Gen-Z aesthetic Instagram caption along with a vibey song recommendation using Google Gemini Vision.
 
-🧾 Detailed Description for README
 📸 Igcap – Insta Captions & Song Vibes Generator 🎶
 Igcap is a playful and creative web app that lets users upload any image and receive an AI-generated, aesthetic Instagram-style caption along with a chill song suggestion that matches the vibe. Powered by Google Gemini 1.5 Vision and built using Streamlit, it's the perfect tool to level up your social media posts.
 
